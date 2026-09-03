@@ -4,11 +4,8 @@ An AI chatbot with a real character, not just a generic assistant. Don Marchetti
 
 Built in Google Colab using an open-source LLM (no API key, no cost), with a live shareable chat demo powered by Gradio.
 
-Try it
 
-🔗 [Live demo link here] (active for 72 hours after launch — chat with him yourself)
-
-What it does
+What it does?
 
 You ask Don Marchetti anything — career decisions, trust issues, whether to take a risk, even whether you should get out of bed — and he answers in character, every time. He reframes problems around respect, loyalty, and consequence, the way an old family patriarch actually talks, not the way a typical AI assistant talks.
 
